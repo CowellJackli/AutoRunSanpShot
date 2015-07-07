@@ -1,0 +1,15 @@
+c:\users\jackli\documents\visual studio 2013\Projects\AutoRunSnapShot\bin\Debug\AutoRunSnapShot.exe.config
+c:\users\jackli\documents\visual studio 2013\Projects\AutoRunSnapShot\bin\Debug\AutoRunSnapShot.exe
+c:\users\jackli\documents\visual studio 2013\Projects\AutoRunSnapShot\bin\Debug\AutoRunSnapShot.pdb
+c:\users\jackli\documents\visual studio 2013\Projects\AutoRunSnapShot\bin\Debug\HtmlRenderer.dll
+c:\users\jackli\documents\visual studio 2013\Projects\AutoRunSnapShot\bin\Debug\HtmlRenderer.pdb
+c:\users\jackli\documents\visual studio 2013\Projects\AutoRunSnapShot\obj\Debug\AutoRunSnapShot.exe
+c:\users\jackli\documents\visual studio 2013\Projects\AutoRunSnapShot\obj\Debug\AutoRunSnapShot.pdb
+C:\Users\jackli\Documents\Visual Studio 2013\Projects\AutoRunSnapShot\obj\Debug\AutoRunSnapShot.csprojResolveAssemblyReference.cache
+D:\Project\Visual Studio 2013\Projects\AutoRunSnapShot\bin\Debug\AutoRunSnapShot.exe.config
+D:\Project\Visual Studio 2013\Projects\AutoRunSnapShot\obj\Debug\AutoRunSnapShot.exe
+D:\Project\Visual Studio 2013\Projects\AutoRunSnapShot\obj\Debug\AutoRunSnapShot.pdb
+D:\Project\Visual Studio 2013\Projects\AutoRunSnapShot\bin\Debug\AutoRunSnapShot.exe
+D:\Project\Visual Studio 2013\Projects\AutoRunSnapShot\bin\Debug\AutoRunSnapShot.pdb
+D:\Project\Visual Studio 2013\Projects\AutoRunSnapShot\bin\Debug\HtmlRenderer.pdb
+D:\Project\Visual Studio 2013\Projects\AutoRunSnapShot\obj\Debug\AutoRunSnapShot.csprojResolveAssemblyReference.cache
